@@ -1,0 +1,9 @@
+System:	Compressed 700 bar
+
+Description:
+Compressed hydrogen at 700 bar.
+
+Running scenario:
+Test case:	4  Hot cycle (SC03, 35C)
+
+Storage system & vehicle variables:
